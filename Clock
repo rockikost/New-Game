@@ -1,0 +1,5 @@
+# New-Game
+First one
+from datetime import datetime
+t = datetime.now()
+print t
